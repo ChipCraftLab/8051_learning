@@ -1,0 +1,32 @@
+# Keil C51 Build Artifacts
+*.OBJ
+*.obj
+*.LST
+*.lst
+*.M51
+*.m51
+*.build_log.htm
+*.__i
+*.plg
+*.plg.html
+*.lnp
+*.out
+
+# Keil uVision Workspace & User Configurations
+*.uvgui*
+*.uvopt
+*_uvopt.bak
+*_uvproj.bak
+*.bak
+*.Bak
+*.dep
+
+# OS Generated
+Thumbs.db
+Desktop.ini
+.DS_Store
+
+# Temporary & Output
+tmp/
+dist/
+build/
