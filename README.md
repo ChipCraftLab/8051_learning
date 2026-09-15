@@ -143,4 +143,4 @@ To use it:
 
 This repository is distributed under the **[MIT License](LICENSE)**. 
 
-Maintained by **[ChipCraftLab](https://github.com/ChipCraftLab)**. Free for educational use in university classrooms, student laboratories, and self-study.
+Maintained by **[ChipCraftLab](https://github.com/ChipCraftLab)**. Free for educational use in university classrooms, student laboratories, and self-study.<a href="https://www.buymeacoffee.com/chipcraftlab"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=☕&slug=chipcraftlab&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff" /></a>
